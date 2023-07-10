@@ -12,9 +12,9 @@ This Task Management Application demonstrates a basic implementation of a Create
 * Delete a task
 
 ## Installation
-- Clone the repository: git clone [https://github.com/DelwarSumon/task-management.git](https://github.com/DelwarSumon/task-management.git) 
+- Clone the repository: **`git clone [https://github.com/DelwarSumon/task-management.git](https://github.com/DelwarSumon/task-management.git)`**
 - Configure your web server to point to the project's directory.
-- Create database, named `**task_manager**`. and run the query to create table named `**tasks**`
+- Create database, named **`task_manager`** and run the query to create table named **`tasks`**
   
   ```
       CREATE TABLE tasks (
@@ -23,4 +23,6 @@ This Task Management Application demonstrates a basic implementation of a Create
         description TEXT NOT NULL
       );
   ```
-- Update the database connection credentials in the TaskModel class (models/TaskModel.php).
+- Update the database connection credentials in the **`TaskModel`** class **(`models/TaskModel.php`)**.
+
+### Thank you
