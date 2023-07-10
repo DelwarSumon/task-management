@@ -25,10 +25,5 @@ This Task Management Application demonstrates a basic implementation of a Create
   ```
 - Update the database connection credentials in the **`TaskModel`** class **(`models/TaskModel.php`)**.
 
-### Thank you
 
-~~Thank you!~~
-
-*Thank you!*
-
-<span style="color: green;">Thank you!</span>
+<h1 style="color: green;">*Thank you!*</h1>
