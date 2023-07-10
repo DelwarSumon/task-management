@@ -2,6 +2,8 @@
 
 # Task Management (PHP MVC CRUD Application)
 ![PHP](https://img.shields.io/badge/PHP-v.8.2.4-green)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 This Task Management Application demonstrates a basic implementation of a Create, Read, Update, and Delete (CRUD) functionality using the Model-View-Controller (MVC) architectural pattern.
 
@@ -12,7 +14,10 @@ This Task Management Application demonstrates a basic implementation of a Create
 * Delete a task
 
 ## Installation
-- Clone the repository: ``` git clone https://github.com/DelwarSumon/task-management.git ```
+- Clone the repository:
+  ```
+    git clone https://github.com/DelwarSumon/task-management.git
+  ```
 - Configure your web server to point to the project's directory.
 - Create database, named **`task_manager`** and run the query to create table named **`tasks`**
   
